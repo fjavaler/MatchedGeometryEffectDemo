@@ -11,6 +11,7 @@
 		31636B3E2704ADAE00461B9E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31636B3D2704ADAE00461B9E /* ContentView.swift */; };
 		31636B402704ADB100461B9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31636B3F2704ADB100461B9E /* Assets.xcassets */; };
 		31636B432704ADB100461B9E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31636B422704ADB100461B9E /* Preview Assets.xcassets */; };
+		31636B4A2704B12100461B9E /* SelectedTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31636B492704B12100461B9E /* SelectedTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		31636B3D2704ADAE00461B9E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		31636B3F2704ADB100461B9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31636B422704ADB100461B9E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		31636B492704B12100461B9E /* SelectedTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				31636B3D2704ADAE00461B9E /* ContentView.swift */,
 				31636B3F2704ADB100461B9E /* Assets.xcassets */,
 				31636B412704ADB100461B9E /* Preview Content */,
+				31636B492704B12100461B9E /* SelectedTextView.swift */,
 			);
 			path = "MatchedGeometryEffect Demo";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31636B4A2704B12100461B9E /* SelectedTextView.swift in Sources */,
 				31636B3E2704ADAE00461B9E /* ContentView.swift in Sources */,
 				31636B3C2704ADAE00461B9E /* MatchedGeometryEffect_DemoApp.swift in Sources */,
 			);
